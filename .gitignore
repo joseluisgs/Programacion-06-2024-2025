@@ -1,0 +1,10 @@
+*.pptx
+*.docx
+.DS_Store
+/Ejercicios/*.docx
+upload.sh
+/Soluciones/2021-2022
+/Soluciones/2022-2023
+/Soluciones/2023-2024
+*.docx
+/Ejemplos/2022-2023
